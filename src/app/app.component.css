@@ -1,0 +1,11 @@
+/* p {
+  font-family: Lato;
+}
+#table, th, td {
+  border: 1px solid black;
+} */
+
+.border-cls {
+  border: 4px double blue;
+  color: red;
+}
